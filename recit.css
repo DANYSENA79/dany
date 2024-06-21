@@ -1,0 +1,38 @@
+header{
+    direction: inherit;
+    position:static center;
+    background-color: aqua;
+    font-family:cursive;
+    text-align: center;
+}
+main{
+    background-color: blueviolet;
+    text-align: center;
+}
+section{
+    text-align: center;
+    background-color: beige;
+    font-family: monospace;
+}
+img{
+    position: center ;
+
+}
+div{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+h1{
+    color: blue;font-family: cursive;
+
+}
+h2{
+    color:lightblue ;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: springgreen;
+    font-family:sans-serif;
+}
+    
+
